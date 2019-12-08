@@ -22,3 +22,10 @@ this error is addressed be creating const
 4)Error no.4: findOrCreate not found.
 solution: npm install mongoose-findorcreate
 var findOrCreate = require('mongoose-findorcreate');
+
+Some Random Information:
+
+1)Simple plugin for Mongoose which adds a findOrCreate method to models.
+ This is useful for libraries like "Passport which require it."
+2)click below to understand serialize and deserialize.
+https://stackoverflow.com/questions/27637609/understanding-passport-serialize-deserialize
